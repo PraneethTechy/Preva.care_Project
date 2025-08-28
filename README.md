@@ -1,4 +1,5 @@
-Preva.care – Feature Showcase
+# **Preva.care**
+ – Feature Showcase
 
 A responsive React + Vite + TailwindCSS project built as part of an assessment task.
 The app showcases five healthcare features inside a mobile mockup with smooth Framer Motion animations.
